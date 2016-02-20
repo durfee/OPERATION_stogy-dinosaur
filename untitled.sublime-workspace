@@ -1,0 +1,1303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bp-larger-than-de",
+				"bp-larger-than-desktop"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"light",
+				"light-grey"
+			],
+			[
+				"font",
+				"font-color"
+			],
+			[
+				"dark",
+				"dark-grey"
+			],
+			[
+				"larget",
+				"bp-larger-than-phablet"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"base",
+				"base-line-height"
+			],
+			[
+				"line",
+				"base-line-height"
+			],
+			[
+				"scal",
+				"scalingSizeM"
+			],
+			[
+				"med",
+				"mediumScreen"
+			],
+			[
+				"sans",
+				"sans-serif-header"
+			],
+			[
+				"user",
+				"userEmail"
+			],
+			[
+				"imag",
+				"images"
+			],
+			[
+				"image",
+				"imagemin"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"wid",
+				"max-width"
+			],
+			[
+				"heroback",
+				"hero-background-2-bottom"
+			],
+			[
+				"flex-box",
+				"flex-boxes"
+			],
+			[
+				"speak",
+				"speaker-flex-background"
+			],
+			[
+				"speaker",
+				"speaker-flex"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"footer",
+				"footer-disclaimer-color"
+			],
+			[
+				"highli",
+				"highlight-module"
+			],
+			[
+				"icon",
+				"icon-logo"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"accent",
+				"accent-blue"
+			],
+			[
+				"hero",
+				"hero-background-event-1"
+			],
+			[
+				"her",
+				"hero-background-event-1"
+			],
+			[
+				"content",
+				"content"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"accen",
+				"accent-red"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"event3",
+				"event3-svg"
+			],
+			[
+				"event2",
+				"event2-svg"
+			],
+			[
+				"event1",
+				"event1-svg"
+			],
+			[
+				"home",
+				"home-svg"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"footer-link",
+				"footer-link-color"
+			],
+			[
+				"medi",
+				"mediumscreen"
+			],
+			[
+				"footer-",
+				"footer-background"
+			],
+			[
+				"off",
+				"off-white"
+			],
+			[
+				"ms-trans",
+				"ms-transition"
+			],
+			[
+				"current",
+				"current"
+			],
+			[
+				"con",
+				"content-tab"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"tab",
+				"tab-btn"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"conten",
+				"contentTab"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"curren",
+				"currentPage"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"span",
+				"span-columns"
+			],
+			[
+				"hei",
+				"height-screen"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"cont",
+				"contrast-teal"
+			],
+			[
+				"contrast",
+				"contrast-blue"
+			],
+			[
+				"contr",
+				"contrast-teal"
+			],
+			[
+				"page",
+				"page-content"
+			],
+			[
+				"copy-col",
+				"copy-color-dark"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"contra",
+				"contrast-red"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"grid",
+				"grid-item-border"
+			],
+			[
+				"co",
+				"copy-size-small"
+			],
+			[
+				"cop",
+				"copy-size-small"
+			],
+			[
+				"body",
+				"body-text-base"
+			],
+			[
+				"fine",
+				"fine-print"
+			],
+			[
+				"heading",
+				"heading-medium"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"heading-",
+				"heading-small"
+			],
+			[
+				"small",
+				"small-print-size"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"__",
+				"__halt_compiler"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"grid-item-c",
+				"grid-item-color"
+			],
+			[
+				"s",
+				"smallscreen"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"grid-item-",
+				"grid-item-columns"
+			],
+			[
+				"gr",
+				"grid-items-background"
+			],
+			[
+				"work",
+				"work-query"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"work-",
+				"work-query"
+			],
+			[
+				"height",
+				"height-screen"
+			],
+			[
+				"he",
+				"height-screen"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"contras",
+				"contrast-blue"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"C",
+				"Choplin"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"menu",
+				"menu-button-actual"
+			],
+			[
+				"tra",
+				"translateX"
+			],
+			[
+				"width",
+				"width-tablet"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"backgroun",
+				"background-color-dark"
+			],
+			[
+				"backgr",
+				"background-color-base"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"sco",
+				"scroll"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"auto",
+				"auto"
+			],
+			[
+				"hor",
+				"webkit-border-horizontal-spacing"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"thumb",
+				"thumb2x"
+			],
+			[
+				"widht",
+				"width-mobile"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"temp",
+				"template_directory"
+			],
+			[
+				"js-nav",
+				"js-nav-anm-trigger"
+			],
+			[
+				"translate",
+				"translateX"
+			],
+			[
+				"wp_",
+				"wp_enqueue_script"
+			],
+			[
+				"is",
+				"is-visible"
+			],
+			[
+				"vi",
+				"visible"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/base/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 1117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.sass",
+			"settings":
+			{
+				"buffer_size": 5367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*\n* Skeleton V2.0.4\n* Copyright 2014, Dave Gamache\n* www.getskeleton.com\n* Free to use under the MIT license.\n* http://www.opensource.org/licenses/mit-license.php\n* 12/9/2014\n* Sass Version by Seth Coelen https://github.com/whatsnewsaes\n*/\n\n/* Base files. */\n@import base/normalize\n@import base/variables\n@import base/functions\n@import base/base-styles\n@import base/utils\n@import base/typography\n\n/* Modules */\n@import modules/grid\n@import modules/buttons\n@import modules/forms\n@import modules/lists\n@import modules/code\n@import modules/tables\n@import modules/spacing\n@import modules/media-queries\n",
+			"file": "skeleton/_skeleton.scss",
+			"file_size": 641,
+			"file_write_time": 130968295880000000,
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "snippet {",
+		"selected_items":
+		[
+			[
+				"snippet {",
+				"Snippet: {…}"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"ss sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"SS ",
+				"Set Syntax: SASS"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"pkg instal",
+				"Package Control: Install Package"
+			],
+			[
+				"dummy",
+				"Snippet: HTML - Dummy text"
+			],
+			[
+				"ss s",
+				"Set Syntax: SASS"
+			],
+			[
+				"ss htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"build",
+				"Build With: Ruby"
+			],
+			[
+				"thmr",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"pkgin",
+				"Package Control: Install Package"
+			],
+			[
+				"usr",
+				"Preferences: Settings - User"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"pkg",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pkg in",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: ---"
+			],
+			[
+				"themr set",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"them",
+				"Themr: Add current theme to favorites"
+			],
+			[
+				"thm",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet:",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"transform",
+				"Snippet: transform"
+			],
+			[
+				"trans",
+				"Snippet: transition"
+			],
+			[
+				"transition",
+				"Snippet: transition"
+			],
+			[
+				"Snippet: ",
+				"Snippet: overflow-y"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"bash ruby -v",
+			"ruby"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/SeanDurfee/Sites/OPERATION_stogy-dinosaur/skeleton/modules/_buttons.scss",
+		"/Users/SeanDurfee/Sites/OPERATION_stogy-dinosaur/neat/settings/_visual-grid.scss",
+		"/Users/SeanDurfee/Sites/OPERATION_stogy-dinosaur/skeleton/base/_typography.scss",
+		"/Users/SeanDurfee/Sites/OPERATION_stogy-dinosaur/skeleton/base/_base-styles.scss",
+		"/Users/SeanDurfee/Sites/OPERATION_stogy-dinosaur/scss/base/_variables.scss",
+		"/Users/SeanDurfee/Sites/OPERATION_stogy-dinosaur/bower.json",
+		"/Users/SeanDurfee/Sites/OPERATION_stogy-dinosaur/bourbon/_bourbon.scss",
+		"/Users/SeanDurfee/Sites/OPERATION_stogy-dinosaur/css/scss/base/_variables.scss",
+		"/Users/SeanDurfee/Sites/OPERATION_stogy-dinosaur/css/skeleton.css",
+		"/Users/SeanDurfee/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/SeanDurfee/Library/Application Support/Sublime Text 3/Packages/User/openinbrowser.sublime-settings",
+		"/Users/SeanDurfee/Dropbox/Work/Case Notes/Case notes: Friends Made.md",
+		"/Users/SeanDurfee/Downloads/CSM_Personal_Home_Page_Templates/index.html",
+		"/Users/SeanDurfee/Downloads/bootstrap-sass-3.3.6/templates/project/styles.sass",
+		"/Users/SeanDurfee/Sites/website-actual/stylesheets/theme.sass",
+		"/Users/SeanDurfee/Downloads/arcive/Error log - Hoefler Text.ttc.json",
+		"/Users/SeanDurfee/Sites/website-actual/stylesheets/csswizardry-grids-master/csswizardry-grids.scss",
+		"/Users/SeanDurfee/Sites/website-actual/csswizardry-grids-master/csswizardry-grids.scss",
+		"/Users/SeanDurfee/Downloads/Startup Framework/Developer/samples/sample-19/less/style.less",
+		"/Users/SeanDurfee/Downloads/Startup Framework/Developer/samples/sample-19/index.html",
+		"/Users/SeanDurfee/Sites/Hustle-shopify/hustle-coffee-19370692/assets/timber.scss",
+		"/Users/SeanDurfee/Sites/Hustle-shopify/hustle-coffee-19370692/snippets/collection-grid-item.liquid",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/public/stylesheets/main.sass",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/app.js",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/views/layout.jade",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/views/newuser.jade",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/views/index.jade",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/routes/index.js",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/node_modules/node-neat/node_modules/bourbon-neat/app/assets/stylesheets/settings/_visual-grid.scss",
+		"/Users/SeanDurfee/Sites/Hustle/gulpfile.js",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/views/footer.jade",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/package.json",
+		"/Users/SeanDurfee/Sites/Hustle/app/nodetest1/views/userlist.jade",
+		"/Users/SeanDurfee/Sites/Hustle/README.md",
+		"/Users/SeanDurfee/Sites/Hustle/package.json",
+		"/Users/SeanDurfee/Sites/Career nights/styles/_scss-needed.scss",
+		"/Users/SeanDurfee/Sites/Career nights/styles/_custom.sass",
+		"/Users/SeanDurfee/Sites/Career nights/index4.html",
+		"/Users/SeanDurfee/Sites/Career nights/index3.html",
+		"/Users/SeanDurfee/Sites/Career nights/index2.html",
+		"/Users/SeanDurfee/Sites/Career nights/index.html",
+		"/Users/SeanDurfee/Sites/Career nights/styles/main.scss",
+		"/Users/SeanDurfee/Sites/Career nights/styles/_h5bp.scss",
+		"/Users/SeanDurfee/Sites/Career nights/styles/components/_modules/_highlight.scss",
+		"/Users/SeanDurfee/Sites/Career nights/styles/components/_utils.scss",
+		"/Users/SeanDurfee/Sites/Career nights/styles/components/_components/_button.scss",
+		"/Users/SeanDurfee/Sites/Career nights/styles/components/_components/_link.scss",
+		"/Users/SeanDurfee/Sites/Career nights/scripts/main.js",
+		"/Users/SeanDurfee/Sites/Career nights/styles/components/_modules/_guides-section.scss",
+		"/Users/SeanDurfee/Sites/Career nights/404.html",
+		"/Users/SeanDurfee/Sites/Career nights/styles/_texture.scss",
+		"/Users/SeanDurfee/Sites/Career nights/styles/components/_components/_guides-list.scss",
+		"/Users/SeanDurfee/Sites/Career nights/styles/addons/_button.scss",
+		"/Users/SeanDurfee/Sites/Career nights/styles/components/_components/_list.scss",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/header.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/project_plan.html",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/style.sass",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/js/main.js",
+		"/Users/SeanDurfee/Sites/Career nights/styles/main.css",
+		"/Users/SeanDurfee/Sites/Career nights/styleguide.html",
+		"/Users/SeanDurfee/Downloads/concise-1.1.0-dist/css/concise.css",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/js/main.js",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/functions.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/inc/template-tags.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/css/_vars-typeplate.scss",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/css/_typeplate.scss",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/work.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/content-single.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/single.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/home.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/footer.php",
+		"/Users/SeanDurfee/Desktop/wp-config.php",
+		"/Users/SeanDurfee/Downloads/themeforest-7824993-story-creative-responsive-multipurpose-theme/documentation/index.html",
+		"/Users/SeanDurfee/Sites/IRSA-website/wordpress/wp-content/themes/Bonfire/style.css",
+		"/Users/SeanDurfee/Sites/IRSA-website/wordpress/wp-content/themes/Bonfire/archive.php",
+		"/Users/SeanDurfee/Sites/IRSA-website/wordpress/wp-content/themes/Bonfire/main.sass",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/css/main.css",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/content.php",
+		"/Users/SeanDurfee/Dropbox/Documents/Liu work study cover letter.md",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/base.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/sidebar.php",
+		"/Users/SeanDurfee/Downloads/aheller-demo/single-work.php",
+		"/Users/SeanDurfee/Design/Projects/aheller-demo/contact-fields.php",
+		"/Users/SeanDurfee/Design/Projects/aheller-demo/functions.php",
+		"/Users/SeanDurfee/Downloads/aheller-demo/work.php",
+		"/Users/SeanDurfee/Downloads/aheller-demo/header.php",
+		"/Users/SeanDurfee/Downloads/aheller-demo/index.php",
+		"/Users/SeanDurfee/Downloads/aheller-demo/home.php",
+		"/Users/SeanDurfee/Downloads/aheller-demo/style.css",
+		"/Users/SeanDurfee/Downloads/aheller-demo/page.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/page.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/contact.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/index.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/content-page.php",
+		"/Users/SeanDurfee/Design/Projects/aheller-demo/work-functions.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/content-none.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/base/_typography.scss",
+		"/Users/SeanDurfee/Design/Code/SectionSeparators/css/component.css",
+		"/Users/SeanDurfee/Design/Code/CSSkeyframes.css",
+		"/Users/SeanDurfee/Design/Code/SectionSeparators/css/demo.css",
+		"/Users/SeanDurfee/Sites/firelight/index.html",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/neat/grid/_span-columns.scss",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/bourbon/addons/_clearfix.scss",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/css/typeplate.css",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/css/footer.sass",
+		"/Users/SeanDurfee/Downloads/aheller-demo/functions.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/inc/custom-header.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/css/_sidebar.sass",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/wordpress/wp-content/themes/contrast/css/_masthead.sass",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/home.php",
+		"/Users/SeanDurfee/Design/Code/SectionSeparators/index.html",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/bourbon/addons/_button.scss",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/css/main.css",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/css/typeplate.css",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0/index.html",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/index.php",
+		"/Users/SeanDurfee/Sites/firelight/css/stylesheet.css",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/functions.php",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/inc/extras.php",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/inc/custom-header.php",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/single.php",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/inc/template-tags.php",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/js/navigation.js",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/base/_buttons.scss",
+		"/Users/SeanDurfee/Sites/psite2/wordpress/wp-content/themes/contrast/base/extends/_button.scss",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0 (wp)/wordpress/wp-content/themes/contrast/style.sass",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0 (wp)/wordpress/wp-content/themes/contrast/home.php",
+		"/Users/SeanDurfee/Sites/seandurfee.com_2.0 (wp)/wordpress/wp-content/themes/contrast/header.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			";",
+			"{",
+			"}",
+			";",
+			"}",
+			"{",
+			";",
+			"=\"\">",
+			"@include outer-container@include outer-container",
+			"@include outer-container",
+			"\"",
+			"\"min-width: ",
+			";",
+			"href=\"\"",
+			"btn",
+			"#",
+			"project",
+			"javascript:void;",
+			"<h3></h3>",
+			"        	<div class=\"the_smaller_wrapper\">\n",
+			".2015",
+			"  ",
+			"desk",
+			"portable",
+			"lap",
+			"palm",
+			".hero__cta",
+			".btn",
+			"button",
+			".main-",
+			"padding",
+			"hero_slide_",
+			"hero_slide_1",
+			"hero_slide_b",
+			"hero_slide_1",
+			".main-content",
+			"@media",
+			"template contains 'index'",
+			";",
+			"button",
+			"li",
+			"div",
+			"href=\"ht",
+			"span",
+			"a:	vistied",
+			"button--primar",
+			"primary--button",
+			"::before",
+			"home-logo",
+			"class=\"tab-btn \"",
+			"class=\"tab-btn-",
+			"class=\"ta",
+			" class=\"tab-btn-1\"",
+			"div",
+			"button",
+			" a",
+			"cover",
+			"5",
+			"<img src=\"\" alt=\"small image placeholder example\">",
+			"images/icons/placeholder--small.png",
+			"-svg",
+			".svg",
+			"-svg",
+			"home-",
+			"wide",
+			"medium",
+			"#content-tab",
+			"transition",
+			";",
+			"h3",
+			"Nights",
+			"<a hre",
+			"Event",
+			"event",
+			"Event",
+			"event",
+			"Event",
+			"//",
+			"100%",
+			".content",
+			"};",
+			"all",
+			",",
+			"transform",
+			"opacity",
+			"0.5s",
+			"translate",
+			"transform",
+			"selected",
+			"toggle",
+			"toggleClass",
+			"toggle",
+			"1",
+			"currentPage",
+			"contentTab",
+			"tabSelector",
+			"}",
+			";",
+			"{",
+			";",
+			"themed",
+			"button",
+			"header",
+			"img",
+			"href=\"\"",
+			"src=\"\"",
+			"<div></div>",
+			"$indent",
+			"width",
+			"p ",
+			".entry-sub",
+			".entry-sub-",
+			".entry-sub-heading",
+			"typeography",
+			"absolute",
+			".menu-wrapper",
+			"class=\"zeta\"",
+			"h5",
+			"body",
+			"text-color",
+			"body-text",
+			"$body-copy-color",
+			"span",
+			"$small-print-size",
+			"font-size",
+			"Work",
+			"k '"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6542,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										2120,
+										2120
+									],
+									[
+										2208,
+										2208
+									],
+									[
+										2688,
+										2718
+									],
+									[
+										3178,
+										3178
+									],
+									[
+										3880,
+										3880
+									],
+									[
+										5273,
+										5273
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								3852,
+								3852
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 891.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/base/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "css/style.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5367,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										126,
+										126
+									],
+									[
+										843,
+										843
+									],
+									[
+										3155,
+										3155
+									],
+									[
+										5365,
+										5365
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								791,
+								791
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 169.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "skeleton/_skeleton.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.445448732207,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

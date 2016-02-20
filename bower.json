@@ -1,0 +1,24 @@
+{
+  "name": "OPERATION_stogy-dinosaur",
+  "authors": [
+    "durfee"
+  ],
+  "description": "Personal website for Sean Durfee",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "personal",
+    "side-project",
+    "portfolio"
+  ],
+  "license": "MIT",
+  "homepage": "seandurfee.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
