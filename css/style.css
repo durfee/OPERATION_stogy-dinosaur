@@ -725,7 +725,7 @@ hr {
 /* ------------ 3. Theme tyles ------------ */
 .the_wrapper {
   background: white; }
-  .the_wrapper .the_smaller_wrapper nav {
+  .the_wrapper .the_smaller_wrapper .nav__items {
     max-width: 68em;
     margin-left: auto;
     margin-right: auto;
@@ -735,31 +735,33 @@ hr {
     margin: 0;
     padding: 0;
     z-index: 999; }
-    .the_wrapper .the_smaller_wrapper nav::after {
+    .the_wrapper .the_smaller_wrapper .nav__items::after {
       clear: both;
       content: "";
       display: table; }
-    .the_wrapper .the_smaller_wrapper nav ul {
+    .the_wrapper .the_smaller_wrapper .nav__items ul {
       list-style: none; }
-      .the_wrapper .the_smaller_wrapper nav ul .nav-link {
+      .the_wrapper .the_smaller_wrapper .nav__items ul .nav__link {
         display: block;
         background: #33c3f0;
         text-align: center; }
-        .the_wrapper .the_smaller_wrapper nav ul .nav-link a {
+        .the_wrapper .the_smaller_wrapper .nav__items ul .nav__link a {
           height: 3em;
           width: 3em;
           display: block;
           line-height: 3em;
           text-decoration: none;
           color: #333;
+          font-weight: 800;
           border-bottom: none !important; }
-        .the_wrapper .the_smaller_wrapper nav ul .nav-link:hover {
+          .the_wrapper .the_smaller_wrapper .nav__items ul .nav__link a .nav__link-expanded {
+            visibility: hidden;
+            display: none; }
+        .the_wrapper .the_smaller_wrapper .nav__items ul .nav__link:hover {
           background: #e1e1e1; }
   .the_wrapper .the_smaller_wrapper #hero .hero {
     display: block;
     position: relative;
-    background: #333;
-    background-size: cover;
     margin: 0 auto; }
     .the_wrapper .the_smaller_wrapper #hero .hero .hero-inner {
       margin: 0 auto;
@@ -770,11 +772,12 @@ hr {
         content: "";
         display: table; }
       .the_wrapper .the_smaller_wrapper #hero .hero .hero-inner .hero-inner__copy {
-        padding-top: 4em;
-        color: white; }
-        @media screen and (min-width: 550px) {
-          .the_wrapper .the_smaller_wrapper #hero .hero .hero-inner .hero-inner__copy {
-            padding: 9em 0; } }
+        padding-top: 4em; }
+        .the_wrapper .the_smaller_wrapper #hero .hero .hero-inner .hero-inner__copy h1 {
+          font-weight: 800; }
+        .the_wrapper .the_smaller_wrapper #hero .hero .hero-inner .hero-inner__copy h3 {
+          font-weight: 500;
+          color: #333; }
   .the_wrapper .the_smaller_wrapper #about {
     max-width: 68em;
     margin-left: auto;
@@ -823,19 +826,6 @@ hr {
             width: 82.9403914003%; }
             .the_wrapper .the_smaller_wrapper #about .container__content > p:last-child {
               margin-right: 0; } }
-  .the_wrapper .the_smaller_wrapper #hero-face {
-    display: block;
-    position: relative;
-    height: 50vh;
-    width: 100vw;
-    background-image: url("/images/my-silly-face.jpg");
-    background-size: 70%;
-    background-repeat: no-repeat;
-    background-position: center; }
-    .the_wrapper .the_smaller_wrapper #hero-face::after {
-      clear: both;
-      content: "";
-      display: table; }
   .the_wrapper .the_smaller_wrapper #portfolio {
     max-width: 68em;
     margin-left: auto;
@@ -998,7 +988,7 @@ hr {
   .the_wrapper .the_smaller_wrapper footer {
     display: block;
     position: relative;
-    background: #333; }
+    background: #222; }
     .the_wrapper .the_smaller_wrapper footer::after {
       clear: both;
       content: "";
@@ -1027,7 +1017,15 @@ hr {
     .the_wrapper .the_smaller_wrapper footer .social .social__header {
       color: white; }
 
-/* ------------ 3. END Theme tyles ------------ */
-/* ------------ 4. Portfolio styles ------------ */
-.the_wrapper .the_smaller_wrapper section.portfolio-page {
-  padding: 3em 0 !important; }
+/* ------------ 3. END Theme styles ------------ */
+/* ------------ 4. Specific styles ------------ */
+#floater > h1 {
+  font-weight: 800; }
+
+.nav__items.slideOut a {
+  width: 12em !important;
+  text-align: left;
+  padding-left: 3em; }
+.nav__items.slideOut .nav__link-expanded-visiblity {
+  visibility: visible !important;
+  display: inline !important; }
