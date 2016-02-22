@@ -180,6 +180,9 @@ hr
             color: $dark-grey
             font-weight: 800
             border-bottom: none !important
+            .nav__link-expanded
+              visibility: hidden
+              display: none
           &:hover
             background: $light-grey  
     #hero
@@ -322,4 +325,16 @@ hr
           color: white
 #floater>h1
   font-weight: 800
+.nav__items.slideOut
+  $drawer-width: 12em
+  a
+    width: $drawer-width !important
+    text-align: left
+    padding-left: 3em
+
+  .nav__link-expanded-visiblity
+    visibility: visible !important
+    display: inline !important
+
+
 
