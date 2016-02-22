@@ -36,6 +36,7 @@ $bp-larger-than-desktophd : 1200px !default
 // Colors and font stack from Skeleton (getskeleton.com)
 $light-grey: #e1e1e1 !default
 $dark-grey: #333 !default
+$darker-grey: #222 !default
 $primary-color: #33c3f0 !default
 $secondary-color: lighten($dark-grey, 13.5%) !default
 $border-color: #bbb !default
@@ -193,6 +194,7 @@ hr
             line-height: 3em
             text-decoration: none
             color: $dark-grey
+            font-weight: 800
             border-bottom: none !important
           &:hover
             background: $light-grey  
@@ -200,8 +202,6 @@ hr
       .hero
         display: block
         position: relative
-        background: $dark-grey
-        background-size: cover
         margin: 0 auto
         .hero-inner
           @include clearfix
@@ -210,9 +210,11 @@ hr
           text-align: center
           .hero-inner__copy
             padding-top: 4em
-            color: white
-            @include media($bp-larger-than-phablet)
-              padding: 9em 0
+            h1
+              font-weight: 800
+            h3
+              font-weight: 500
+              color: $dark-grey
     #about
       @include outer-container
       @extend .container
@@ -332,7 +334,7 @@ hr
       @include clearfix
       display: block
       position: relative
-      background: $dark-grey
+      background: $darker-grey
       .footer-inner
         padding-top: 3em
         @include outer-container
@@ -345,6 +347,8 @@ hr
       .social        
         .social__header
           color: white
+#floater>h1
+  font-weight: 800
 
 /* ------------ 3. END Theme tyles ------------ */
 /* ------------ 4. Portfolio styles ------------ */
