@@ -60,13 +60,9 @@ $font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sa
 @import modules/spacing
 @import modules/grid
 
-
-
 /* ------------ 1. END Imports ------------ */
 
 /* ------------ 2. Global Vars & overides ------------ */
-
-
 
 h1, h2, h3, h4, h5, h6 
   margin-top: 0
@@ -135,8 +131,6 @@ body
   margin: 0
   padding: 0
 
-
-
 // Links
 //––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -146,7 +140,6 @@ a
   &:hover
     color: darken($link-color, 15%)
     border-bottom: 2px solid darken($link-color, 15%)
-
 
 // Misc
 //––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -160,18 +153,9 @@ hr
 .small
   font-size: 1.2rem
 
-
 /* ------------ 2. END Global Vars & overides ------------ */
 /* ------------ 3. Theme tyles ------------ */
-// .the_header
-//   @include span-columns(12)
-//   background: white
-//   height: 5vh
-//   display: block
-//   position: fixed
-//   z-index: 998
 .the_wrapper
-  // @include outer-container(90%)
   background: white
   .the_smaller_wrapper
     nav
@@ -236,16 +220,6 @@ hr
           @include span-columns(8 of 12)
           & > p
             @include span-columns(10 of 12)
-    #hero-face
-      @include clearfix
-      display: block
-      position: relative
-      height: 50vh
-      width: 100vw
-      background-image: url('/images/my-silly-face.jpg')
-      background-size: 70%
-      background-repeat: no-repeat
-      background-position: center
     #portfolio
       @include outer-container
       @extend .container
@@ -286,7 +260,6 @@ hr
             @include clearfix
             float: left
             padding: 3em 0
-
     #contact
       @include outer-container
       @extend .container
@@ -350,27 +323,3 @@ hr
 #floater>h1
   font-weight: 800
 
-/* ------------ 3. END Theme tyles ------------ */
-/* ------------ 4. Portfolio styles ------------ */
-.the_wrapper
-  .the_smaller_wrapper
-    section.portfolio-page
-      padding: 3em 0 !important
-  // #hustle
-  //   @include background(url('/images/hustle.jpg'), linear-gradient(transparentize(#7f7f7f,1), transparentize(#7f7f7f, 0.9)))
-  //   background: $light-grey
-  //   background-size: cover
-  //   background-repeat: no-repeat
-  //   background-position: center
-  // #envoy
-  //   @include background(url('/images/envoy.jpg'), linear-gradient(transparentize(#ffffff,1), transparentize(#7f7f7f, 0.9)))
-  //   background: $light-grey
-  //   background-size: cover
-  //   background-repeat: no-repeat
-  //   background-position: center
-  // #iona
-  //   @include background(url('/images/iona.png'), linear-gradient(transparentize(#ffffff,1), transparentize(#7f7f7f, 0.9)))
-  //   background: $light-grey
-  //   background-size: 110%
-  //   background-repeat: no-repeat
-  //   background-position: center
