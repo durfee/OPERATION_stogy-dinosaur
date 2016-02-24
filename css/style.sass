@@ -236,11 +236,7 @@ hr
       @include outer-container
       @extend .container
       display: block
-      @include media($bp-larger-than-tablet)
-        margin: 0 auto
       .portfolio
-        display: block
-        @include outer-container
         .portfolio__section-title
           @include media($bp-larger-than-tablet)
             @include span-columns(4 of 12)
@@ -275,10 +271,8 @@ hr
     #contact
       @include outer-container
       @extend .container
-      width: 100vw
-      display: block
+      padding: 2em 0
       .contact__section-title
-        display: block
         position: relative
         @include media($bp-larger-than-tablet)
           @include span-columns(4 of 12)
