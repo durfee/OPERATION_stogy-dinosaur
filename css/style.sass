@@ -268,6 +268,28 @@ hr
             @include clearfix
             float: left
             padding: 3em 0
+    #clients
+      background: $darker-grey
+      .client-grid
+        @include outer-container
+        @extend .container
+        padding: 3em 0
+        .grid-item
+          display: block
+          @include span-columns(12 of 12)
+          @include media($bp-larger-than-tablet)
+            @include span-columns(6 of 12)
+          @include media($bp-larger-than-desktop)
+            @include span-columns(3 of 12)
+          .grid-item__wrapper
+            h6
+              color: $light-grey !important
+              text-align: center
+            a
+              text-decoration: none !important
+              border-bottom: none !important
+            img
+              @include size(15em)
     #contact
       @include outer-container
       @extend .container
