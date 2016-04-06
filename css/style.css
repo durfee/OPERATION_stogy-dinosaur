@@ -16,7 +16,7 @@ html {
   box-sizing: inherit; }
 
 /* Bootstrapped & edited internal Skeleton import
- * because bower is being *stoopid* some overrides+
+ * because bower is being *stoopid*. Some overrides+
  * modifications also included.
  * 
  * Skeleton V2.0.4
@@ -1063,3 +1063,36 @@ hr {
 /* ------------ 4. Specific styles ------------ */
 #floater > h1 {
   font-weight: 800; }
+
+#resume-wrapper {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  #resume-wrapper::after {
+    clear: both;
+    content: "";
+    display: table; }
+  #resume-wrapper hr.divider {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 48.821174201%;
+    display: block; }
+    #resume-wrapper hr.divider:last-child {
+      margin-right: 0; }
+  #resume-wrapper .resume-section {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 100%;
+    display: block; }
+    #resume-wrapper .resume-section:last-child {
+      margin-right: 0; }
+    @media screen and (min-width: 750px) {
+      #resume-wrapper .resume-section {
+        float: left;
+        display: block;
+        margin-right: 2.3576515979%;
+        width: 48.821174201%; }
+        #resume-wrapper .resume-section:last-child {
+          margin-right: 0; } }

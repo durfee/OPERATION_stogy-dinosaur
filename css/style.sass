@@ -352,3 +352,13 @@ hr
 /* ------------ 4. Specific styles ------------ */
 #floater>h1
   font-weight: 800
+#resume-wrapper
+  @include outer-container
+  hr.divider
+    @include span-columns(6 of 12)
+    display: block
+  .resume-section
+    @include span-columns(12)
+    display: block
+    @include media($bp-larger-than-tablet)
+      @include span-columns(6 of 12)
